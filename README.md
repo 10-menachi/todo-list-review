@@ -77,7 +77,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- Coming soon!
+[Live Demo Link](https://10-menachi.github.io/todo-list/dist)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
